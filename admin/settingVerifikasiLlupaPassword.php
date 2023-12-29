@@ -109,7 +109,6 @@ if (isset($_SESSION['user_id'])) {
 
     <!-- Lihat Profil Start -->
     <div class="lupaPassword">
-        <img src="assets/bg_3d_kopi_kanan.png" alt="" class="top-right">
         <div class="container" data-aos="zoom-in-up">
             <div class="card-form">
                 <div class="judul-form">
@@ -155,7 +154,6 @@ if (isset($_SESSION['user_id'])) {
                 </div>
             </div>
         </div>
-        <img src="assets/bg_3d_kopi_kiri.png" alt="" class="bottom-left">
     </div>
     <!-- Lihat Profil End -->
 

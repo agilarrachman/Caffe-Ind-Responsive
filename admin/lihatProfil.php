@@ -106,7 +106,6 @@ if (isset($_SESSION['user_id'])) {
 
     <!-- Lihat Profil Start -->
     <div class="lihatProfil">
-        <img src="assets/bg_3d_kopi_kanan.png" alt="" class="top-right">
         <div class="container">
             <div class="card-form" data-aos="zoom-in-up">
                 <div class="judul-form">
@@ -148,7 +147,6 @@ if (isset($_SESSION['user_id'])) {
                 </div>
             </div>
         </div>
-        <img src="assets/bg_3d_kopi_kiri.png" alt="" class="bottom-left">
     </div>
     <!-- Lihat Profil End -->
 
